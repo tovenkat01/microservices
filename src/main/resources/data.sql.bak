@@ -1,0 +1,4 @@
+insert into tbl_user (birth_date, name, id) values (4, sysdate(), 'Ab');
+insert into tbl_user (birth_date, name, id) values (5, sysdate(), 'CD');
+insert into tbl_user (birth_date, name, id) values (6, sysdate(), 'EF');
+insert into tbl_user (birth_date, name, id) values (7, sysdate(), 'GH');
